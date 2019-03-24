@@ -2,7 +2,7 @@
 Theme Name: Cinerama Child
 Theme URI: http://cinerama.edge-themes.com
 Description: A child theme of Cinerama Theme
-Author: Edge Themes
+Author: Antonio Vasilev
 Author URI: http://themeforest.net/user/edge-themes
 Version: 1.0.0
 Text Domain: cinerama
@@ -10,6 +10,6 @@ Template: cinerama
 */
 
 
-body{
-    content:'More content here';
+.edgtf-page-header{
+	display:block;
 }
