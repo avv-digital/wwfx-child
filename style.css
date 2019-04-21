@@ -10,6 +10,11 @@ Template: cinerama
 */
 
 
+body{
+	background: red;
+}
+
+
 .edgtf-page-header{
 	display:block;
 }
